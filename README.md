@@ -1,2 +1,2 @@
-# WebHost
+# Paradox
 Web Devlopment
